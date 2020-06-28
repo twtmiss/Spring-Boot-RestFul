@@ -1,1 +1,2 @@
-"# Spring-Boot-RestFul" 
+此项目是学习某Spring Boot网课，跟着做出来的项目。
+为电商类项目，仅后端无前端页面。
